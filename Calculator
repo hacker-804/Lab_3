@@ -1,3 +1,4 @@
 cout<< "Malaika Tanveer Iqbal";
 cout<< "23-ST-049";
 cout<< "The sum of two numbers: "<<a+b<<endl;
+cout<< "The difference of two numbers: "<<a-b<<endl;
